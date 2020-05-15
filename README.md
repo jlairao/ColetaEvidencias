@@ -23,8 +23,8 @@ How to use this script
 
 5 - Create and populate the SERVERS.TXT file with the host name of the servers you want to collect information from. (Do not use this script to collect information from the server where the script is running!)
 
-6. Execute the script .\Coleta-Evidencias.ps1
+6 - Execute the script .\Coleta-Evidencias.ps1
 
-7. The result will be a .ZIP file in the format HOSTNAME-Evidences-Intel.ZIP saved in the directory C: \IBM_Support\ PS
+7 - The result will be a .ZIP file in the format HOSTNAME-Evidences-Intel.ZIP saved in the directory C: \IBM_Support\ PS
 
-8. Important: The user account must have an administrator profile (domain) to collect information on the servers remotely.
+8 - Important: The user account must have an administrator profile (domain) to collect information on the servers remotely.
