@@ -1,13 +1,16 @@
 # ColetaEvidencias
 List of evidences for Windows Servers activation
 
-Script developed in Powershell to collect evidence in text mode to attach to the SCoAD questionnaire.
+This script was developed in Powershell to collect evidences in text mode to attach to the SCoAD questionnaire.
 
 The Script collects information about:
 
-Hotfix installed
-System Information (systeminfo)
-Security Policy (SecPol)
+- Hotfixes installed.
+
+- System Information (systeminfo).
+
+- Security Policy (SecPol).
+
 
 How to use this script
 
